@@ -1,0 +1,62 @@
+﻿variavel,pergunta,codigo,rotulo
+B01021B,Em que ano escolar você está?,1,7º ano do Ensino Fundamental
+B01021B,Em que ano escolar você está?,2,8º ano do Ensino Fundamental
+B01021B,Em que ano escolar você está?,3,9º ano do Ensino Fundamental
+B01021B,Em que ano escolar você está?,4,1º ano do Ensino Médio
+B01021B,Em que ano escolar você está?,5,2º ano do Ensino Médio
+B01021B,Em que ano escolar você está?,6,3º ano do Ensino Médio
+B01021B,Em que ano escolar você está?,-2,Abandono
+B01021B,Em que ano escolar você está?,-9,Sem resposta
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",1,Somente continuar estudando
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",2,Somente trabalhar
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",3,Continuar estudando e trabalhar
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",4,Seguir outro plano
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",5,Não sei
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",-1,Pulo
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",-2,Abandono
+B01026A2,"Quando terminar o Ensino Médio, você pretende?",-9,Sem resposta
+B01006,Você mora com sua mãe?,1,Sim
+B01006,Você mora com sua mãe?,2,Não
+B01006,Você mora com sua mãe?,-2,Abandono
+B01006,Você mora com sua mãe?,-9,Sem resposta
+B01007,Você mora com seu pai?,1,Sim
+B01007,Você mora com seu pai?,2,Não
+B01007,Você mora com seu pai?,-2,Abandono
+B01007,Você mora com seu pai?,-9,Sem resposta
+B13006,"NOS ÚLTIMOS 12 MESES, quantos dias você faltou a escola por motivo(s) relacionado(s) à própria saúde?",1,Não faltei a escola nos últimos 12 meses por motivos de saúde
+B13006,"NOS ÚLTIMOS 12 MESES, quantos dias você faltou a escola por motivo(s) relacionado(s) à própria saúde?",2,1 a 3 dias
+B13006,"NOS ÚLTIMOS 12 MESES, quantos dias você faltou a escola por motivo(s) relacionado(s) à própria saúde?",3,4 a 7 dias
+B13006,"NOS ÚLTIMOS 12 MESES, quantos dias você faltou a escola por motivo(s) relacionado(s) à própria saúde?",4,8 a 15 dias
+B13006,"NOS ÚLTIMOS 12 MESES, quantos dias você faltou a escola por motivo(s) relacionado(s) à própria saúde?",5,16 dias ou mais
+B13006,"NOS ÚLTIMOS 12 MESES, quantos dias você faltou a escola por motivo(s) relacionado(s) à própria saúde?",-2,Abandono
+B13006,"NOS ÚLTIMOS 12 MESES, quantos dias você faltou a escola por motivo(s) relacionado(s) à própria saúde?",-9,Sem resposta
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",1,Nenhum dia nos últimos 30 dias
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",2,1 dia
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",3,2 dias
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",4,3 dias
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",5,4 dias
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",6,5 dias ou mais
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",-2,Abandono
+B09002,"NOS ÚLTIMOS 30 DIAS, em quantos dias você não foi à escola porque não se sentia seguro NA ESCOLA?",-9,Sem resposta
+B12005,"NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?",1,Nunca
+B12005,"NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?",2,Raramente
+B12005,"NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?",3,Às vezes
+B12005,"NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?",4,Na maioria das vezes
+B12005,"NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?",5,Sempre
+B12005,"NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?",-2,Abandono
+B12005,"NOS ÚLTIMOS 30 DIAS, com que frequência você se sentiu triste?",-9,Sem resposta
+B07001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você faltou às aulas ou à escola sem permissão de sua mãe, pai ou responsável?",1,Nenhum dia nos últimos 30 dias
+B07001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você faltou às aulas ou à escola sem permissão de sua mãe, pai ou responsável?",2,1 ou 2 dias
+B07001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você faltou às aulas ou à escola sem permissão de sua mãe, pai ou responsável?",3,3 a 5 dias
+B07001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você faltou às aulas ou à escola sem permissão de sua mãe, pai ou responsável?",4,6 a 9 dias
+B07001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você faltou às aulas ou à escola sem permissão de sua mãe, pai ou responsável?",5,10 ou mais dias
+B07001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você faltou às aulas ou à escola sem permissão de sua mãe, pai ou responsável?",-2,Abandono
+B07001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você faltou às aulas ou à escola sem permissão de sua mãe, pai ou responsável?",-9,Sem resposta
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",1,Nenhum dia nos últimos 30 dias
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",2,1 dia
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",3,2 dias
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",4,3 dias
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",5,4 dias
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",6,5 dias ou mais
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",-2,Abandono
+B09001,"NOS ÚLTIMOS 30 DIAS, em quantos dias você deixou de ir à escola porque não se sentia seguro NO CAMINHO de casa para a escola ou da escola para casa?",-9,Sem resposta
