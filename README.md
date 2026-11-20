@@ -32,8 +32,7 @@ O arquivo tem 153.870 registros e 430 colunas. O domínio tem 148.736 registros.
 - apresentacao.pptx e roteiro_15min.md — slides com notas e divisão sugerida em dupla.
 - requirements.txt — bibliotecas da execução.
 
-## Entrega
 
-Personalizem a identificação da dupla nos slides e no relatório. As instruções da disciplina pedem compartilhar no Teams o link do repositório em 20/11 e apresentar em 27/11, em 15 minutos. O repositório deve conter descrição, código, relatório e apresentação. Os dados individuais ficam fora do Git. A execução recria as bases processadas.
+## Bibliografia 
 
 Fonte: [microdados e documentação oficial do IBGE](https://ftp.ibge.gov.br/pense/2024/microdados/).
